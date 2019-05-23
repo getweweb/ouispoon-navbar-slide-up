@@ -1,0 +1,937 @@
+{
+    "rows": [
+        {
+            "new": false,
+            "anim": {},
+            "data": {},
+            "link": {
+                "data": {},
+                "type": "none"
+            },
+            "tags": [],
+            "ratio": -1,
+            "hidden": false,
+            "content": {
+                "data": {
+                    "config": {
+                        "lg": {
+                            "cols": null,
+                            "unit": "%",
+                            "height": 0,
+                            "ignore": true
+                        },
+                        "md": {
+                            "cols": [
+                                {
+                                    "align": "2",
+                                    "width": "10",
+                                    "offset": 0,
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#E0E0E0",
+                                            "style": "solid",
+                                            "width": "1"
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "align": "2",
+                                    "width": "90",
+                                    "offset": 0,
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#E0E0E0",
+                                            "style": "solid",
+                                            "width": "1"
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "hide": false,
+                                    "align": "2",
+                                    "width": "20",
+                                    "offset": 0,
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#E0E0E0",
+                                            "style": "solid",
+                                            "width": "1"
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "hide": true,
+                                    "align": "2",
+                                    "width": "10",
+                                    "offset": 0,
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#E0E0E0",
+                                            "style": "solid",
+                                            "width": "1"
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "unit": "px",
+                            "height": 70,
+                            "ignore": false,
+                            "nowrap": true
+                        },
+                        "sm": {
+                            "cols": null,
+                            "unit": "%",
+                            "height": 0,
+                            "ignore": true
+                        },
+                        "xs": {
+                            "cols": [
+                                {
+                                    "align": "2",
+                                    "width": "25",
+                                    "offset": 0,
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "hide": true,
+                                    "align": "2",
+                                    "width": "50",
+                                    "offset": 0,
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "align": "2",
+                                    "width": "37",
+                                    "offset": "1",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "align": "2",
+                                    "width": "37",
+                                    "offset": 0,
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "unit": "px",
+                            "height": 70,
+                            "ignore": false,
+                            "nowrap": true
+                        },
+                        "count": 4,
+                        "height": null
+                    },
+                    "columns": [
+                        {
+                            "wwObjects": [
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "align": "center",
+                                            "justify": "flex-start",
+                                            "wwObjects": [
+                                                {
+                                                    "new": false,
+                                                    "anim": {},
+                                                    "data": {},
+                                                    "link": {
+                                                        "data": {},
+                                                        "type": "none"
+                                                    },
+                                                    "tags": [],
+                                                    "ratio": -1,
+                                                    "hidden": false,
+                                                    "content": {
+                                                        "data": {
+                                                            "alt": {
+                                                                "en_GB": "webeo",
+                                                                "fr_FR": "webeo"
+                                                            },
+                                                            "pos": {
+                                                                "left": "33.35683710070098%",
+                                                                "top": "24.77115427550793%",
+                                                                "width": "33.28632579859805%",
+                                                                "height": "50.45769144898414%"
+                                                            },
+                                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/5/sections/yO4MHQQpBE3JOcUleSw3qhncWUXBEb67.png",
+                                                            "crop": "98.15011380718687px100p@0px0p",
+                                                            "zoom": 0.3328632579859805,
+                                                            "hover": {
+                                                                "name": "",
+                                                                "options": {}
+                                                            },
+                                                            "style": {
+                                                                "filter": "",
+                                                                "overlay": "",
+                                                                "boxShadow": {
+                                                                    "b": 0,
+                                                                    "c": "",
+                                                                    "s": 0,
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "maxHeight": "70",
+                                                                "borderColor": "black",
+                                                                "borderStyle": "none",
+                                                                "borderWidth": 0,
+                                                                "borderRadius": 0
+                                                            },
+                                                            "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAUCAYAAABWMrcvAAAAyklEQVQ4T+3Tu0oDURAG4G82IBaSRWsRQS2sfATxGfSZLH0TwT7ie4iFN7w1IsYIcXPOSpKNIKjI1hmYYorvMPzMCS0qWhhz1KT2LYhLFkfUWwz/SnWG4q4oD0dEqJ+qnE43DC6w0OAPpKbzBF0rlwtpT9E5iIhE7q2m1ytso4tjVLgfwy8U8m4UnX2hrqWztdS/wSZKnGCAB9QTVBO3RfcI/RBvKVe9de+P4xkreGlWfcZ0vRk8Z2lI3pm++mvNz+inM/rvh2yV3iclZj4VPeFoDwAAAABJRU5ErkJggg==",
+                                                            "imgSize": {
+                                                                "h": 1080,
+                                                                "w": 1920
+                                                            },
+                                                            "position": {
+                                                                "x": 0,
+                                                                "y": 0
+                                                            },
+                                                            "animation": {
+                                                                "fn": null,
+                                                                "delay": 0,
+                                                                "scale": 1,
+                                                                "rotate": 0,
+                                                                "opacity": 1,
+                                                                "duration": 0,
+                                                                "translateX": 0,
+                                                                "translateY": 0
+                                                            }
+                                                        },
+                                                        "type": "ww-image"
+                                                    },
+                                                    "children": {},
+                                                    "paddings": {
+                                                        "xs": {
+                                                            "top": 0,
+                                                            "left": 10,
+                                                            "right": 0,
+                                                            "bottom": 0
+                                                        }
+                                                    },
+                                                    "uniqueId": 11067219672,
+                                                    "wwVersion": 3
+                                                }
+                                            ]
+                                        },
+                                        "type": "ww-row"
+                                    },
+                                    "children": {},
+                                    "paddings": {},
+                                    "uniqueId": 13701800317,
+                                    "wwVersion": 3
+                                }
+                            ],
+                            "background": {
+                                "new": false,
+                                "anim": {},
+                                "data": {},
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "tags": [],
+                                "ratio": -1,
+                                "hidden": false,
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "children": {},
+                                "paddings": {},
+                                "uniqueId": 9566932327,
+                                "wwVersion": 3
+                            }
+                        },
+                        {
+                            "wwObjects": [
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "align": "center",
+                                            "justify": "flex-start",
+                                            "wwObjects": [
+                                                {
+                                                    "new": false,
+                                                    "anim": {},
+                                                    "data": {},
+                                                    "link": {
+                                                        "type": "ww-link-section",
+                                                        "data": {
+                                                            "id": 2068590332
+                                                        }
+                                                    },
+                                                    "tags": [],
+                                                    "ratio": -1,
+                                                    "hidden": false,
+                                                    "content": {
+                                                        "data": {
+                                                            "text": {
+                                                                "new": false,
+                                                                "anim": {},
+                                                                "data": {},
+                                                                "link": {
+                                                                    "data": {},
+                                                                    "type": "none"
+                                                                },
+                                                                "tags": [],
+                                                                "ratio": -1,
+                                                                "hidden": false,
+                                                                "content": {
+                                                                    "data": {
+                                                                        "tag": "div",
+                                                                        "font": "",
+                                                                        "size": "",
+                                                                        "text": {
+                                                                            "fr": "Notre histoire",
+                                                                            "en": "Our Story"
+                                                                        },
+                                                                        "align": "",
+                                                                        "color": "",
+                                                                        "classes": [],
+                                                                        "children": []
+                                                                    },
+                                                                    "type": "ww-text"
+                                                                },
+                                                                "children": {},
+                                                                "paddings": {},
+                                                                "uniqueId": 5699544213,
+                                                                "wwVersion": 3
+                                                            },
+                                                            "style": {
+                                                                "padding": 10,
+                                                                "gradient": {},
+                                                                "boxShadow": {
+                                                                    "b": 0,
+                                                                    "c": "",
+                                                                    "s": 0,
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "borderColor": "#000000",
+                                                                "borderStyle": "none",
+                                                                "borderWidth": 0,
+                                                                "borderRadius": 50,
+                                                                "backgroundColor": "#FFFFFF00"
+                                                            },
+                                                            "fullWidth": false
+                                                        },
+                                                        "type": "ww-button"
+                                                    },
+                                                    "children": {},
+                                                    "paddings": {
+                                                        "xs": {
+                                                            "top": 0,
+                                                            "left": 20,
+                                                            "right": 0,
+                                                            "bottom": 0
+                                                        }
+                                                    },
+                                                    "uniqueId": 4516605237,
+                                                    "wwVersion": 3
+                                                }
+                                            ]
+                                        },
+                                        "type": "ww-row"
+                                    },
+                                    "children": {},
+                                    "paddings": {},
+                                    "uniqueId": 15278017668,
+                                    "wwVersion": 3
+                                }
+                            ],
+                            "background": {
+                                "new": false,
+                                "anim": {},
+                                "data": {},
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "tags": [],
+                                "ratio": -1,
+                                "hidden": false,
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "children": {},
+                                "paddings": {},
+                                "uniqueId": 13425488470,
+                                "wwVersion": 3
+                            }
+                        },
+                        {
+                            "wwObjects": [
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "align": "center",
+                                            "justify": "center",
+                                            "wwObjects": [
+                                                {
+                                                    "new": false,
+                                                    "anim": {},
+                                                    "data": {},
+                                                    "link": {
+                                                        "data": {},
+                                                        "type": "none"
+                                                    },
+                                                    "tags": [],
+                                                    "ratio": -1,
+                                                    "hidden": false,
+                                                    "content": {
+                                                        "data": {
+                                                            "text": {
+                                                                "new": false,
+                                                                "anim": {},
+                                                                "data": {},
+                                                                "link": {
+                                                                    "data": {},
+                                                                    "type": "none"
+                                                                },
+                                                                "tags": [],
+                                                                "ratio": -1,
+                                                                "hidden": false,
+                                                                "content": {
+                                                                    "data": {
+                                                                        "tag": "div",
+                                                                        "font": "",
+                                                                        "size": "",
+                                                                        "text": {
+                                                                            "fr": "Nous contacter",
+                                                                            "en": "Contact Us"
+                                                                        },
+                                                                        "align": "",
+                                                                        "color": "",
+                                                                        "classes": [],
+                                                                        "children": []
+                                                                    },
+                                                                    "type": "ww-text"
+                                                                },
+                                                                "children": {},
+                                                                "paddings": {},
+                                                                "uniqueId": 2269448159,
+                                                                "wwVersion": 3
+                                                            },
+                                                            "style": {
+                                                                "padding": 23,
+                                                                "gradient": {},
+                                                                "boxShadow": {
+                                                                    "b": 0,
+                                                                    "c": "",
+                                                                    "s": 0,
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "borderColor": "#FF5722",
+                                                                "borderStyle": "solid",
+                                                                "borderWidth": 1,
+                                                                "borderRadius": 5,
+                                                                "backgroundColor": "#FFFFFF"
+                                                            },
+                                                            "fullWidth": false
+                                                        },
+                                                        "type": "ww-button"
+                                                    },
+                                                    "children": {},
+                                                    "paddings": {},
+                                                    "uniqueId": 596850356,
+                                                    "wwVersion": 3
+                                                }
+                                            ]
+                                        },
+                                        "type": "ww-row"
+                                    },
+                                    "children": {},
+                                    "paddings": {},
+                                    "uniqueId": 7423027876,
+                                    "wwVersion": 3
+                                }
+                            ],
+                            "background": {
+                                "new": false,
+                                "anim": {},
+                                "data": {},
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "tags": [],
+                                "ratio": -1,
+                                "hidden": false,
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "children": {},
+                                "paddings": {},
+                                "uniqueId": 12080017959,
+                                "wwVersion": 3
+                            }
+                        },
+                        {
+                            "wwObjects": [
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "ww-link-navbar"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "align": "center",
+                                            "justify": "flex-end",
+                                            "wwObjects": [
+                                                {
+                                                    "new": false,
+                                                    "anim": {},
+                                                    "data": {},
+                                                    "link": {
+                                                        "data": {},
+                                                        "type": "none"
+                                                    },
+                                                    "tags": [],
+                                                    "ratio": -1,
+                                                    "hidden": false,
+                                                    "content": {
+                                                        "data": {
+                                                            "icon": "wwi wwi-menu",
+                                                            "style": {
+                                                                "size": 40,
+                                                                "color": "#000000",
+                                                                "fontSize": 20,
+                                                                "gradient": {},
+                                                                "boxShadow": {
+                                                                    "b": 0,
+                                                                    "c": "",
+                                                                    "s": 0,
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "borderColor": "#E30613",
+                                                                "borderStyle": "solid",
+                                                                "borderWidth": 1,
+                                                                "borderRadius": 50,
+                                                                "backgroundColor": "#FFFFFF"
+                                                            }
+                                                        },
+                                                        "type": "ww-icon"
+                                                    },
+                                                    "children": {},
+                                                    "paddings": {},
+                                                    "uniqueId": 11902209702,
+                                                    "wwVersion": 3
+                                                }
+                                            ]
+                                        },
+                                        "type": "ww-row"
+                                    },
+                                    "children": {},
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 20,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "uniqueId": 5799676499,
+                                    "wwVersion": 3
+                                }
+                            ],
+                            "background": {
+                                "new": false,
+                                "anim": {},
+                                "data": {},
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "tags": [],
+                                "ratio": -1,
+                                "hidden": false,
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "children": {},
+                                "paddings": {},
+                                "uniqueId": 1444377,
+                                "wwVersion": 3
+                            }
+                        }
+                    ]
+                },
+                "type": "ww-columns"
+            },
+            "children": {},
+            "paddings": {},
+            "uniqueId": 3442826149,
+            "wwVersion": 3
+        }
+    ],
+    "rowsSide": [
+        {
+            "new": false,
+            "anim": {},
+            "data": {},
+            "link": {
+                "type": "ww-link-section",
+                "data": {
+                    "id": 2068590332
+                }
+            },
+            "tags": [],
+            "ratio": -1,
+            "hidden": false,
+            "content": {
+                "data": {
+                    "text": {
+                        "new": false,
+                        "anim": {},
+                        "data": {},
+                        "link": {
+                            "data": {},
+                            "type": "none"
+                        },
+                        "tags": [],
+                        "ratio": -1,
+                        "hidden": false,
+                        "content": {
+                            "data": {
+                                "tag": "div",
+                                "font": "",
+                                "size": "",
+                                "text": {
+                                    "fr": "Notre histoire",
+                                    "en": "Our Story"
+                                },
+                                "align": "",
+                                "color": "",
+                                "classes": [],
+                                "children": []
+                            },
+                            "type": "ww-text"
+                        },
+                        "children": {},
+                        "paddings": {},
+                        "uniqueId": 4571644326,
+                        "wwVersion": 3
+                    },
+                    "style": {
+                        "padding": 10,
+                        "gradient": {},
+                        "boxShadow": {
+                            "b": 0,
+                            "c": "",
+                            "s": 0,
+                            "x": 0,
+                            "y": 0
+                        },
+                        "borderColor": "#000000",
+                        "borderStyle": "none",
+                        "borderWidth": 0,
+                        "borderRadius": 50,
+                        "backgroundColor": "#FFFFFF00"
+                    },
+                    "fullWidth": false
+                },
+                "type": "ww-button"
+            },
+            "children": {},
+            "paddings": {
+                "xs": {
+                    "top": 70,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 10
+                }
+            },
+            "uniqueId": 4644857342,
+            "wwVersion": 3
+        }
+    ],
+    "background": {
+        "new": false,
+        "anim": {},
+        "data": {},
+        "link": {
+            "data": {},
+            "type": "none"
+        },
+        "tags": [],
+        "ratio": -1,
+        "hidden": false,
+        "content": {
+            "data": {
+                "style": {},
+                "backgroundColor": "#FFFFFF"
+            },
+            "type": "ww-color"
+        },
+        "children": {},
+        "paddings": {},
+        "uniqueId": 1915629072,
+        "wwVersion": 3
+    },
+    "appearPercent": -2,
+    "backgroundSide": {
+        "new": false,
+        "anim": {},
+        "data": {},
+        "link": {
+            "data": {},
+            "type": "none"
+        },
+        "tags": [],
+        "ratio": -1,
+        "hidden": false,
+        "content": {
+            "data": {
+                "backgroundColor": "#FFFFFF"
+            },
+            "type": "ww-color"
+        },
+        "children": {},
+        "paddings": {},
+        "uniqueId": 8613174293,
+        "wwVersion": 3
+    }
+}
