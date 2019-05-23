@@ -25,12 +25,6 @@
                     <wwObject v-for="row in section.data.rows" :key="row.uniqueId" :ww-object="row"></wwObject>
                 </wwLayoutColumn>
             </div>
-            <!-- <div class="menu-wrapper">
-                <wwObject tag="div" :ww-object="section.data.dropDownMenu"></wwObject>
-            </div>-->
-            <div class="lang-wrapper">
-                <wwObject tag="div" :ww-object="section.data.languageButton"></wwObject>
-            </div>
         </div>
 
         <div class="navbar-side">
@@ -40,14 +34,7 @@
                 <!-- wwManager:end -->
                 <wwObject class="background" :ww-object="section.data.backgroundSide" ww-category="background"></wwObject>
 
-                <wwLayoutColumn
-                    tag="div"
-                    ww-default="ww-row"
-                    :ww-list="section.data.rowsSide"
-                    class="content"
-                    @ww-add="add(section.data.rowsSide, $event)"
-                    @ww-remove="remove(section.data.rowsSide, $event)"
-                >
+                <wwLayoutColumn tag="div" ww-default="ww-row" :ww-list="section.data.rowsSide" class="content" @ww-add="add(section.data.rowsSide, $event)" @ww-remove="remove(section.data.rowsSide, $event)">
                     <wwObject v-for="row in section.data.rowsSide" :key="row.uniqueId" :ww-object="row"></wwObject>
                 </wwLayoutColumn>
             </div>
@@ -251,14 +238,6 @@ export default {
             this.section.data.rowsSide = [];
             needUpdate = true;
         }
-        if (!this.section.data.languageButton) {
-            this.section.data.languageButton = wwLib.wwObject.getDefault({ type: 'ww-lang-ouispoon', data: {} });
-        }
-        /*   if (!this.section.data.dropDownMenu) {
-              this.section.data.dropDownMenu = wwLib.wwObject.getDefault({ type: 'ww-dropdown-menu', data: {} });
-  
-          } */
-
         if (!this.section.data.background) {
             this.section.data.background = wwLib.wwObject.getDefault({ type: 'ww-color', data: { backgroundColor: '#FFFFFF' } });
             needUpdate = true;
@@ -298,17 +277,6 @@ export default {
 </style>
 
 <style scoped lang="scss">
-.lang-wrapper {
-    position: absolute;
-    right: 300px;
-    margin-top: 100px;
-}
-.menu-wrapper {
-    position: absolute;
-    right: 100px;
-    margin-top: 50px;
-}
-
 .navbar_A {
     width: 100%;
 

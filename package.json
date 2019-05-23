@@ -1,12 +1,12 @@
 {
-    "name": "navbar",
+    "name": "navbar-slide-up",
     "type": "section",
     "wewebPublic": "true",
     "repository": {
         "type": "git",
-        "url": "https://github.com/WeWeb-Public/navbar_A"
+        "url": "https://github.com/WeWeb-Public/navbar-slide-up"
     },
-    "version": "0.0.16",
+    "version": "0.0.4",
     "private": true,
     "scripts": {
         "build": "weweb-build",
