@@ -483,10 +483,10 @@
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
-                                                        "type": "ww-link-page",
                                                         "data": {
                                                             "id": 7
-                                                        }
+                                                        },
+                                                        "type": "ww-link-page"
                                                     },
                                                     "tags": [],
                                                     "ratio": -1,
@@ -495,8 +495,8 @@
                                                         "data": {
                                                             "alt": "logo",
                                                             "pos": {
-                                                                "left": "0%",
                                                                 "top": "19.622973236960345%",
+                                                                "left": "0%",
                                                                 "width": "100%",
                                                                 "height": "60.75405352607931%"
                                                             },
@@ -747,7 +747,6 @@
                                                                             "justify": "flex-start",
                                                                             "wwObjects": [
                                                                                 {
-                                                                                    "uniqueId": 12110472011,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -796,10 +795,10 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 12110472011,
                                                                                     "wwVersion": 3
                                                                                 },
                                                                                 {
-                                                                                    "uniqueId": 4463966838,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -812,7 +811,6 @@
                                                                                     "content": {
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "uniqueId": 13771384680,
                                                                                                 "new": false,
                                                                                                 "anim": {},
                                                                                                 "data": {},
@@ -854,6 +852,7 @@
                                                                                                         "bottom": 0
                                                                                                     }
                                                                                                 },
+                                                                                                "uniqueId": 13771384680,
                                                                                                 "wwVersion": 3
                                                                                             },
                                                                                             "style": {
@@ -892,6 +891,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 4463966838,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ]
@@ -932,7 +932,6 @@
                                                                             "justify": "flex-start",
                                                                             "wwObjects": [
                                                                                 {
-                                                                                    "uniqueId": 9574232500,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -981,10 +980,10 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 9574232500,
                                                                                     "wwVersion": 3
                                                                                 },
                                                                                 {
-                                                                                    "uniqueId": 10031540759,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -997,7 +996,6 @@
                                                                                     "content": {
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "uniqueId": 3676812790,
                                                                                                 "new": false,
                                                                                                 "anim": {},
                                                                                                 "data": {},
@@ -1039,6 +1037,7 @@
                                                                                                         "bottom": 0
                                                                                                     }
                                                                                                 },
+                                                                                                "uniqueId": 3676812790,
                                                                                                 "wwVersion": 3
                                                                                             },
                                                                                             "style": {
@@ -1077,6 +1076,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 10031540759,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ]
@@ -1117,7 +1117,6 @@
                                                                             "justify": "flex-start",
                                                                             "wwObjects": [
                                                                                 {
-                                                                                    "uniqueId": 3204602800,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -1166,10 +1165,10 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 3204602800,
                                                                                     "wwVersion": 3
                                                                                 },
                                                                                 {
-                                                                                    "uniqueId": 7481309811,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -1182,7 +1181,6 @@
                                                                                     "content": {
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "uniqueId": 11228640914,
                                                                                                 "new": false,
                                                                                                 "anim": {},
                                                                                                 "data": {},
@@ -1224,6 +1222,7 @@
                                                                                                         "bottom": 0
                                                                                                     }
                                                                                                 },
+                                                                                                "uniqueId": 11228640914,
                                                                                                 "wwVersion": 3
                                                                                             },
                                                                                             "style": {
@@ -1262,6 +1261,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 7481309811,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ]
@@ -1302,7 +1302,6 @@
                                                                             "justify": "flex-start",
                                                                             "wwObjects": [
                                                                                 {
-                                                                                    "uniqueId": 14353759339,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -1351,10 +1350,10 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 14353759339,
                                                                                     "wwVersion": 3
                                                                                 },
                                                                                 {
-                                                                                    "uniqueId": 10350025753,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -1367,7 +1366,6 @@
                                                                                     "content": {
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "uniqueId": 4768696098,
                                                                                                 "new": false,
                                                                                                 "anim": {},
                                                                                                 "data": {},
@@ -1409,6 +1407,7 @@
                                                                                                         "bottom": 0
                                                                                                     }
                                                                                                 },
+                                                                                                "uniqueId": 4768696098,
                                                                                                 "wwVersion": 3
                                                                                             },
                                                                                             "style": {
@@ -1447,6 +1446,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 10350025753,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ]
@@ -1612,20 +1612,20 @@
                                                                 },
                                                                 "children": {},
                                                                 "paddings": {
+                                                                    "lg": {},
                                                                     "md": {
                                                                         "top": 0,
                                                                         "left": 0,
                                                                         "right": 0,
                                                                         "bottom": 0
                                                                     },
+                                                                    "sm": null,
                                                                     "xs": {
                                                                         "top": 0,
                                                                         "left": 0,
                                                                         "right": 0,
                                                                         "bottom": 0
-                                                                    },
-                                                                    "sm": null,
-                                                                    "lg": {}
+                                                                    }
                                                                 },
                                                                 "uniqueId": 14330930965,
                                                                 "wwVersion": 3
@@ -1680,7 +1680,6 @@
                                                                             "justify": "flex-start",
                                                                             "wwObjects": [
                                                                                 {
-                                                                                    "uniqueId": 6598905272,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -1729,10 +1728,10 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 6598905272,
                                                                                     "wwVersion": 3
                                                                                 },
                                                                                 {
-                                                                                    "uniqueId": 10586053976,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -1745,7 +1744,6 @@
                                                                                     "content": {
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "uniqueId": 4138581860,
                                                                                                 "new": false,
                                                                                                 "anim": {},
                                                                                                 "data": {},
@@ -1787,6 +1785,7 @@
                                                                                                         "bottom": 0
                                                                                                     }
                                                                                                 },
+                                                                                                "uniqueId": 4138581860,
                                                                                                 "wwVersion": 3
                                                                                             },
                                                                                             "style": {
@@ -1825,6 +1824,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 10586053976,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ]
@@ -1865,7 +1865,6 @@
                                                                             "justify": "flex-start",
                                                                             "wwObjects": [
                                                                                 {
-                                                                                    "uniqueId": 15255487149,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -1914,10 +1913,10 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 15255487149,
                                                                                     "wwVersion": 3
                                                                                 },
                                                                                 {
-                                                                                    "uniqueId": 11310503307,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -1930,7 +1929,6 @@
                                                                                     "content": {
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "uniqueId": 5628909930,
                                                                                                 "new": false,
                                                                                                 "anim": {},
                                                                                                 "data": {},
@@ -1972,6 +1970,7 @@
                                                                                                         "bottom": 0
                                                                                                     }
                                                                                                 },
+                                                                                                "uniqueId": 5628909930,
                                                                                                 "wwVersion": 3
                                                                                             },
                                                                                             "style": {
@@ -2010,6 +2009,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 11310503307,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ]
@@ -2050,7 +2050,6 @@
                                                                             "justify": "flex-start",
                                                                             "wwObjects": [
                                                                                 {
-                                                                                    "uniqueId": 9313982555,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -2099,10 +2098,10 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 9313982555,
                                                                                     "wwVersion": 3
                                                                                 },
                                                                                 {
-                                                                                    "uniqueId": 6805167551,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -2115,7 +2114,6 @@
                                                                                     "content": {
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "uniqueId": 1987376975,
                                                                                                 "new": false,
                                                                                                 "anim": {},
                                                                                                 "data": {},
@@ -2157,6 +2155,7 @@
                                                                                                         "bottom": 0
                                                                                                     }
                                                                                                 },
+                                                                                                "uniqueId": 1987376975,
                                                                                                 "wwVersion": 3
                                                                                             },
                                                                                             "style": {
@@ -2195,6 +2194,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 6805167551,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ]
@@ -2235,7 +2235,6 @@
                                                                             "justify": "flex-start",
                                                                             "wwObjects": [
                                                                                 {
-                                                                                    "uniqueId": 1477396555,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -2284,10 +2283,10 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 1477396555,
                                                                                     "wwVersion": 3
                                                                                 },
                                                                                 {
-                                                                                    "uniqueId": 14671395406,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -2300,7 +2299,6 @@
                                                                                     "content": {
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "uniqueId": 4872046769,
                                                                                                 "new": false,
                                                                                                 "anim": {},
                                                                                                 "data": {},
@@ -2342,6 +2340,7 @@
                                                                                                         "bottom": 0
                                                                                                     }
                                                                                                 },
+                                                                                                "uniqueId": 4872046769,
                                                                                                 "wwVersion": 3
                                                                                             },
                                                                                             "style": {
@@ -2380,6 +2379,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 14671395406,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ]
@@ -2611,7 +2611,6 @@
                                                                             "justify": "flex-start",
                                                                             "wwObjects": [
                                                                                 {
-                                                                                    "uniqueId": 8618707814,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -2660,10 +2659,10 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 8618707814,
                                                                                     "wwVersion": 3
                                                                                 },
                                                                                 {
-                                                                                    "uniqueId": 771227302,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -2676,7 +2675,6 @@
                                                                                     "content": {
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "uniqueId": 5659490606,
                                                                                                 "new": false,
                                                                                                 "anim": {},
                                                                                                 "data": {},
@@ -2718,6 +2716,7 @@
                                                                                                         "bottom": 0
                                                                                                     }
                                                                                                 },
+                                                                                                "uniqueId": 5659490606,
                                                                                                 "wwVersion": 3
                                                                                             },
                                                                                             "style": {
@@ -2756,6 +2755,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 771227302,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ]
@@ -2796,7 +2796,6 @@
                                                                             "justify": "flex-start",
                                                                             "wwObjects": [
                                                                                 {
-                                                                                    "uniqueId": 11948822688,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -2845,10 +2844,10 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 11948822688,
                                                                                     "wwVersion": 3
                                                                                 },
                                                                                 {
-                                                                                    "uniqueId": 4947620280,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -2861,7 +2860,6 @@
                                                                                     "content": {
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "uniqueId": 6393786664,
                                                                                                 "new": false,
                                                                                                 "anim": {},
                                                                                                 "data": {},
@@ -2903,6 +2901,7 @@
                                                                                                         "bottom": 0
                                                                                                     }
                                                                                                 },
+                                                                                                "uniqueId": 6393786664,
                                                                                                 "wwVersion": 3
                                                                                             },
                                                                                             "style": {
@@ -2941,6 +2940,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 4947620280,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ]
@@ -2981,7 +2981,6 @@
                                                                             "justify": "flex-start",
                                                                             "wwObjects": [
                                                                                 {
-                                                                                    "uniqueId": 10719022421,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -3030,10 +3029,10 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 10719022421,
                                                                                     "wwVersion": 3
                                                                                 },
                                                                                 {
-                                                                                    "uniqueId": 2133331039,
                                                                                     "anim": {},
                                                                                     "data": {},
                                                                                     "link": {
@@ -3046,7 +3045,6 @@
                                                                                     "content": {
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "uniqueId": 10339910451,
                                                                                                 "new": false,
                                                                                                 "anim": {},
                                                                                                 "data": {},
@@ -3088,6 +3086,7 @@
                                                                                                         "bottom": 0
                                                                                                     }
                                                                                                 },
+                                                                                                "uniqueId": 10339910451,
                                                                                                 "wwVersion": 3
                                                                                             },
                                                                                             "style": {
@@ -3126,6 +3125,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
+                                                                                    "uniqueId": 2133331039,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ]
@@ -3583,8 +3583,8 @@
                                             "borderWidth": 0,
                                             "borderRadius": 0
                                         },
-                                        "backgroundColor": "#FEFEFE",
-                                        "gradient": null
+                                        "gradient": null,
+                                        "backgroundColor": "#FEFEFE"
                                     },
                                     "type": "ww-color"
                                 },
@@ -3737,8 +3737,8 @@
                                             "borderWidth": 0,
                                             "borderRadius": 0
                                         },
-                                        "backgroundColor": "#FEFEFE",
-                                        "gradient": null
+                                        "gradient": null,
+                                        "backgroundColor": "#FEFEFE"
                                     },
                                     "type": "ww-color"
                                 },
@@ -3917,7 +3917,34 @@
                             "cols": [
                                 {
                                     "align": "2",
-                                    "width": "100",
+                                    "width": "50",
+                                    "offset": 0,
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "align": "2",
+                                    "width": 50,
                                     "offset": 0,
                                     "borders": [
                                         {
@@ -3945,12 +3972,135 @@
                             ],
                             "unit": "%",
                             "height": 10,
-                            "ignore": false
+                            "ignore": false,
+                            "nowrap": true
                         },
-                        "count": 1,
+                        "count": 2,
                         "height": null
                     },
                     "columns": [
+                        {
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 13765312515,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-image",
+                                        "data": {
+                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/YyI8TbBBV24zA6jgOcQ0dWLRaTnU2SeX.png",
+                                            "alt": "",
+                                            "position": {
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "pos": {
+                                                "left": "0%",
+                                                "top": "19.729811071135504%",
+                                                "width": "100%",
+                                                "height": "60.54037785772899%"
+                                            },
+                                            "zoom": 1,
+                                            "style": {
+                                                "borderRadius": 0,
+                                                "borderWidth": 0,
+                                                "borderColor": null,
+                                                "borderStyle": null,
+                                                "overlay": null,
+                                                "filter": null,
+                                                "boxShadow": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "b": 0,
+                                                    "s": 0,
+                                                    "c": ""
+                                                }
+                                            },
+                                            "animation": {
+                                                "duration": 0,
+                                                "delay": 0,
+                                                "fn": null,
+                                                "opacity": 1,
+                                                "scale": 1,
+                                                "translateX": 0,
+                                                "translateY": 0,
+                                                "rotate": 0
+                                            },
+                                            "imgSize": {
+                                                "w": 1920,
+                                                "h": 1080
+                                            },
+                                            "hover": {
+                                                "name": "",
+                                                "options": {}
+                                            },
+                                            "focusPoint": [
+                                                50,
+                                                50
+                                            ],
+                                            "crop": "100px100p@0px0p"
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {}
+                                }
+                            ],
+                            "background": {
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "paddings": {
+                                    "xs": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    }
+                                },
+                                "uniqueId": 12968718038
+                            }
+                        },
                         {
                             "wwObjects": [
                                 {
@@ -3966,94 +4116,10 @@
                                     "content": {
                                         "data": {
                                             "align": "center",
-                                            "justify": "space-between",
+                                            "justify": "flex-end",
                                             "wwObjects": [
                                                 {
-                                                    "uniqueId": 5151718347,
-                                                    "wwVersion": 3,
-                                                    "content": {
-                                                        "type": "ww-image",
-                                                        "data": {
-                                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/YyI8TbBBV24zA6jgOcQ0dWLRaTnU2SeX.png",
-                                                            "alt": "logo",
-                                                            "position": {
-                                                                "x": 0,
-                                                                "y": 0
-                                                            },
-                                                            "pos": {
-                                                                "left": "0%",
-                                                                "top": "29.71875%",
-                                                                "width": "100%",
-                                                                "height": "40.5625%"
-                                                            },
-                                                            "zoom": 1,
-                                                            "style": {
-                                                                "borderRadius": 0,
-                                                                "borderWidth": 0,
-                                                                "borderColor": "black",
-                                                                "borderStyle": "none",
-                                                                "overlay": "",
-                                                                "filter": "",
-                                                                "boxShadow": {
-                                                                    "x": 0,
-                                                                    "y": 0,
-                                                                    "b": 0,
-                                                                    "s": 0,
-                                                                    "c": ""
-                                                                },
-                                                                "maxHeight": "100"
-                                                            },
-                                                            "animation": {
-                                                                "duration": 0,
-                                                                "delay": 0,
-                                                                "fn": null,
-                                                                "opacity": 1,
-                                                                "scale": 1,
-                                                                "translateX": 0,
-                                                                "translateY": 0,
-                                                                "rotate": 0
-                                                            },
-                                                            "imgSize": {
-                                                                "w": 1920,
-                                                                "h": 1080
-                                                            },
-                                                            "hover": {
-                                                                "name": "",
-                                                                "options": {}
-                                                            },
-                                                            "focusPoint": [
-                                                                50,
-                                                                50
-                                                            ],
-                                                            "crop": "100px100p@0px0p"
-                                                        }
-                                                    },
-                                                    "link": {
-                                                        "type": "none",
-                                                        "data": {}
-                                                    },
-                                                    "ratio": 100,
-                                                    "paddings": {
-                                                        "xs": {
-                                                            "top": 0,
-                                                            "left": 0,
-                                                            "right": 0,
-                                                            "bottom": 0
-                                                        },
-                                                        "md": {
-                                                            "top": 0,
-                                                            "left": 0,
-                                                            "right": 0,
-                                                            "bottom": 0
-                                                        }
-                                                    },
-                                                    "hidden": false,
-                                                    "tags": [],
-                                                    "children": {},
-                                                    "data": {},
-                                                    "anim": {}
-                                                },
-                                                {
+                                                    "uniqueId": 3603986642,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -4102,7 +4168,6 @@
                                                             "bottom": 0
                                                         }
                                                     },
-                                                    "uniqueId": 2991013369,
                                                     "wwVersion": 3
                                                 }
                                             ]
@@ -4124,43 +4189,56 @@
                                             "bottom": 0
                                         }
                                     },
-                                    "uniqueId": 2431739196,
+                                    "uniqueId": 13875583001,
                                     "wwVersion": 3
                                 }
                             ],
                             "background": {
-                                "link": {
-                                    "data": {},
-                                    "type": "none"
-                                },
+                                "uniqueId": 12524215615,
+                                "wwVersion": 3,
                                 "content": {
+                                    "type": "ww-color",
                                     "data": {
+                                        "backgroundColor": "transparent",
                                         "style": {
-                                            "boxShadow": {
-                                                "b": 0,
-                                                "c": "",
-                                                "s": 0,
-                                                "x": 0,
-                                                "y": 0
-                                            },
+                                            "borderRadius": 0,
+                                            "borderWidth": 0,
                                             "borderColor": null,
                                             "borderStyle": null,
-                                            "borderWidth": 0,
-                                            "borderRadius": 0
-                                        },
-                                        "backgroundColor": "transparent"
-                                    },
-                                    "type": "ww-color"
+                                            "boxShadow": {
+                                                "x": 0,
+                                                "y": 0,
+                                                "b": 0,
+                                                "s": 0,
+                                                "c": ""
+                                            }
+                                        }
+                                    }
                                 },
+                                "link": {
+                                    "type": "none",
+                                    "data": {}
+                                },
+                                "ratio": -1,
                                 "paddings": {
                                     "xs": {
                                         "top": 0,
                                         "left": 0,
                                         "right": 0,
                                         "bottom": 0
+                                    },
+                                    "md": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
                                     }
                                 },
-                                "uniqueId": 12968718038
+                                "hidden": false,
+                                "tags": [],
+                                "children": {},
+                                "data": {},
+                                "anim": {}
                             }
                         }
                     ]
@@ -4270,95 +4348,9 @@
                                     "content": {
                                         "data": {
                                             "align": "center",
-                                            "justify": "space-between",
+                                            "justify": "space-evenly",
                                             "wwObjects": [
                                                 {
-                                                    "uniqueId": 9432592620,
-                                                    "wwVersion": 3,
-                                                    "content": {
-                                                        "type": "ww-image",
-                                                        "data": {
-                                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/YyI8TbBBV24zA6jgOcQ0dWLRaTnU2SeX.png",
-                                                            "alt": "logo",
-                                                            "position": {
-                                                                "x": 0,
-                                                                "y": 0
-                                                            },
-                                                            "pos": {
-                                                                "left": "0%",
-                                                                "top": "29.71875%",
-                                                                "width": "100%",
-                                                                "height": "40.5625%"
-                                                            },
-                                                            "zoom": 1,
-                                                            "style": {
-                                                                "borderRadius": 0,
-                                                                "borderWidth": 0,
-                                                                "borderColor": "black",
-                                                                "borderStyle": "none",
-                                                                "overlay": "",
-                                                                "filter": "",
-                                                                "boxShadow": {
-                                                                    "x": 0,
-                                                                    "y": 0,
-                                                                    "b": 0,
-                                                                    "s": 0,
-                                                                    "c": ""
-                                                                },
-                                                                "maxHeight": "100"
-                                                            },
-                                                            "animation": {
-                                                                "duration": 0,
-                                                                "delay": 0,
-                                                                "fn": null,
-                                                                "opacity": 1,
-                                                                "scale": 1,
-                                                                "translateX": 0,
-                                                                "translateY": 0,
-                                                                "rotate": 0
-                                                            },
-                                                            "imgSize": {
-                                                                "w": 1920,
-                                                                "h": 1080
-                                                            },
-                                                            "hover": {
-                                                                "name": "",
-                                                                "options": {}
-                                                            },
-                                                            "focusPoint": [
-                                                                50,
-                                                                50
-                                                            ],
-                                                            "crop": "100px100p@0px0p"
-                                                        }
-                                                    },
-                                                    "link": {
-                                                        "type": "none",
-                                                        "data": {}
-                                                    },
-                                                    "ratio": 100,
-                                                    "paddings": {
-                                                        "xs": {
-                                                            "top": 0,
-                                                            "left": 0,
-                                                            "right": 0,
-                                                            "bottom": 0
-                                                        },
-                                                        "md": {
-                                                            "top": 0,
-                                                            "left": 0,
-                                                            "right": 0,
-                                                            "bottom": 0
-                                                        }
-                                                    },
-                                                    "hidden": false,
-                                                    "tags": [],
-                                                    "children": {},
-                                                    "data": {},
-                                                    "anim": {}
-                                                },
-                                                {
-                                                    "uniqueId": 6967956507,
                                                     "new": false,
                                                     "anim": {},
                                                     "data": {},
@@ -4432,10 +4424,10 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 6967956507,
                                                     "wwVersion": 3
                                                 },
                                                 {
-                                                    "uniqueId": 2529993203,
                                                     "new": false,
                                                     "anim": {},
                                                     "data": {},
@@ -4509,6 +4501,7 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 2529993203,
                                                     "wwVersion": 3
                                                 }
                                             ]
@@ -4607,7 +4600,7 @@
                                             "bottom": 0
                                         },
                                         "xs": {
-                                            "top": 10,
+                                            "top": 72,
                                             "left": 0,
                                             "right": 0,
                                             "bottom": 10
@@ -4629,7 +4622,6 @@
                                     "content": {
                                         "data": {
                                             "text": {
-                                                "uniqueId": 2575987548,
                                                 "new": false,
                                                 "anim": {},
                                                 "data": {},
@@ -4671,6 +4663,7 @@
                                                         "bottom": 0
                                                     }
                                                 },
+                                                "uniqueId": 2575987548,
                                                 "wwVersion": 3
                                             },
                                             "style": {
@@ -4728,7 +4721,6 @@
                                             "justify": "flex-start",
                                             "wwObjects": [
                                                 {
-                                                    "uniqueId": 14434457477,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -4777,6 +4769,7 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 14434457477,
                                                     "wwVersion": 3
                                                 },
                                                 {
@@ -4792,7 +4785,6 @@
                                                     "content": {
                                                         "data": {
                                                             "text": {
-                                                                "uniqueId": 15039930039,
                                                                 "new": false,
                                                                 "anim": {},
                                                                 "data": {},
@@ -4834,6 +4826,7 @@
                                                                         "bottom": 0
                                                                     }
                                                                 },
+                                                                "uniqueId": 15039930039,
                                                                 "wwVersion": 3
                                                             },
                                                             "style": {
@@ -4965,7 +4958,6 @@
                                                     "wwVersion": 3
                                                 },
                                                 {
-                                                    "uniqueId": 13069967048,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -4978,7 +4970,6 @@
                                                     "content": {
                                                         "data": {
                                                             "text": {
-                                                                "uniqueId": 2552709781,
                                                                 "new": false,
                                                                 "anim": {},
                                                                 "data": {},
@@ -5020,6 +5011,7 @@
                                                                         "bottom": 0
                                                                     }
                                                                 },
+                                                                "uniqueId": 2552709781,
                                                                 "wwVersion": 3
                                                             },
                                                             "style": {
@@ -5058,6 +5050,7 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 13069967048,
                                                     "wwVersion": 3
                                                 }
                                             ]
@@ -5150,7 +5143,6 @@
                                                     "wwVersion": 3
                                                 },
                                                 {
-                                                    "uniqueId": 11238638337,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -5163,7 +5155,6 @@
                                                     "content": {
                                                         "data": {
                                                             "text": {
-                                                                "uniqueId": 2301260982,
                                                                 "new": false,
                                                                 "anim": {},
                                                                 "data": {},
@@ -5205,6 +5196,7 @@
                                                                         "bottom": 0
                                                                     }
                                                                 },
+                                                                "uniqueId": 2301260982,
                                                                 "wwVersion": 3
                                                             },
                                                             "style": {
@@ -5243,6 +5235,7 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 11238638337,
                                                     "wwVersion": 3
                                                 }
                                             ]
@@ -5335,7 +5328,6 @@
                                                     "wwVersion": 3
                                                 },
                                                 {
-                                                    "uniqueId": 6452184409,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -5348,7 +5340,6 @@
                                                     "content": {
                                                         "data": {
                                                             "text": {
-                                                                "uniqueId": 13020229580,
                                                                 "new": false,
                                                                 "anim": {},
                                                                 "data": {},
@@ -5390,6 +5381,7 @@
                                                                         "bottom": 0
                                                                     }
                                                                 },
+                                                                "uniqueId": 13020229580,
                                                                 "wwVersion": 3
                                                             },
                                                             "style": {
@@ -5428,6 +5420,7 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 6452184409,
                                                     "wwVersion": 3
                                                 }
                                             ]
@@ -5465,7 +5458,6 @@
                                     "content": {
                                         "data": {
                                             "text": {
-                                                "uniqueId": 9979244157,
                                                 "new": false,
                                                 "anim": {},
                                                 "data": {},
@@ -5507,6 +5499,7 @@
                                                         "bottom": 0
                                                     }
                                                 },
+                                                "uniqueId": 9979244157,
                                                 "wwVersion": 3
                                             },
                                             "style": {
@@ -5564,7 +5557,6 @@
                                             "justify": "flex-start",
                                             "wwObjects": [
                                                 {
-                                                    "uniqueId": 3248559796,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -5613,10 +5605,10 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 3248559796,
                                                     "wwVersion": 3
                                                 },
                                                 {
-                                                    "uniqueId": 12690489760,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -5629,7 +5621,6 @@
                                                     "content": {
                                                         "data": {
                                                             "text": {
-                                                                "uniqueId": 10615698525,
                                                                 "new": false,
                                                                 "anim": {},
                                                                 "data": {},
@@ -5671,6 +5662,7 @@
                                                                         "bottom": 0
                                                                     }
                                                                 },
+                                                                "uniqueId": 10615698525,
                                                                 "wwVersion": 3
                                                             },
                                                             "style": {
@@ -5709,6 +5701,7 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 12690489760,
                                                     "wwVersion": 3
                                                 }
                                             ]
@@ -5746,7 +5739,6 @@
                                     "content": {
                                         "data": {
                                             "text": {
-                                                "uniqueId": 8277967305,
                                                 "new": false,
                                                 "anim": {},
                                                 "data": {},
@@ -5788,6 +5780,7 @@
                                                         "bottom": 0
                                                     }
                                                 },
+                                                "uniqueId": 8277967305,
                                                 "wwVersion": 3
                                             },
                                             "style": {
@@ -5845,7 +5838,6 @@
                                             "justify": "flex-start",
                                             "wwObjects": [
                                                 {
-                                                    "uniqueId": 10918952738,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -5894,10 +5886,10 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 10918952738,
                                                     "wwVersion": 3
                                                 },
                                                 {
-                                                    "uniqueId": 2288187659,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -5910,7 +5902,6 @@
                                                     "content": {
                                                         "data": {
                                                             "text": {
-                                                                "uniqueId": 8217151356,
                                                                 "new": false,
                                                                 "anim": {},
                                                                 "data": {},
@@ -5952,6 +5943,7 @@
                                                                         "bottom": 0
                                                                     }
                                                                 },
+                                                                "uniqueId": 8217151356,
                                                                 "wwVersion": 3
                                                             },
                                                             "style": {
@@ -5990,6 +5982,7 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 2288187659,
                                                     "wwVersion": 3
                                                 }
                                             ]
@@ -6030,7 +6023,6 @@
                                             "justify": "flex-start",
                                             "wwObjects": [
                                                 {
-                                                    "uniqueId": 12678853091,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -6079,10 +6071,10 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 12678853091,
                                                     "wwVersion": 3
                                                 },
                                                 {
-                                                    "uniqueId": 15551090674,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -6095,7 +6087,6 @@
                                                     "content": {
                                                         "data": {
                                                             "text": {
-                                                                "uniqueId": 12698374498,
                                                                 "new": false,
                                                                 "anim": {},
                                                                 "data": {},
@@ -6137,6 +6128,7 @@
                                                                         "bottom": 0
                                                                     }
                                                                 },
+                                                                "uniqueId": 12698374498,
                                                                 "wwVersion": 3
                                                             },
                                                             "style": {
@@ -6175,6 +6167,7 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 15551090674,
                                                     "wwVersion": 3
                                                 }
                                             ]
@@ -6215,7 +6208,6 @@
                                             "justify": "flex-start",
                                             "wwObjects": [
                                                 {
-                                                    "uniqueId": 2078213509,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -6264,10 +6256,10 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 2078213509,
                                                     "wwVersion": 3
                                                 },
                                                 {
-                                                    "uniqueId": 14531984943,
                                                     "anim": {},
                                                     "data": {},
                                                     "link": {
@@ -6280,7 +6272,6 @@
                                                     "content": {
                                                         "data": {
                                                             "text": {
-                                                                "uniqueId": 7198271917,
                                                                 "new": false,
                                                                 "anim": {},
                                                                 "data": {},
@@ -6322,6 +6313,7 @@
                                                                         "bottom": 0
                                                                     }
                                                                 },
+                                                                "uniqueId": 7198271917,
                                                                 "wwVersion": 3
                                                             },
                                                             "style": {
@@ -6360,6 +6352,7 @@
                                                             "bottom": 0
                                                         }
                                                     },
+                                                    "uniqueId": 14531984943,
                                                     "wwVersion": 3
                                                 }
                                             ]
@@ -6405,8 +6398,8 @@
                                             "borderWidth": 0,
                                             "borderRadius": 0
                                         },
-                                        "backgroundColor": "#FEFEFE",
-                                        "gradient": null
+                                        "gradient": null,
+                                        "backgroundColor": "#FEFEFE"
                                     },
                                     "type": "ww-color"
                                 },
