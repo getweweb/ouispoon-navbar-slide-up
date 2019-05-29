@@ -8,5 +8,15 @@ module.exports = [
         storeDesc: {
             en: "Navigation Bar"
         }
+    },
+    {
+        name: 'navbar_ouispoon',
+        category: 'navbar',
+        storeName: {
+            en: "N26 like navbar"
+        },
+        storeDesc: {
+            en: "N26 like navbar"
+        }
     }
 ]
