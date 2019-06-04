@@ -1,12 +1,12 @@
 module.exports = [
     {
-        name: 'navbar_ouispoon',
+        name: 'navbar_simple',
         category: 'navbar',
         storeName: {
-            en: "barre de navigation Ouispoon"
+            en: "Navigation Bar slide up"
         },
         storeDesc: {
-            en: "barre de navigation Ouispoon"
+            en: "Navigation Bar"
         }
     }
 ]
