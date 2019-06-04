@@ -1,11 +1,11 @@
 {
-    "name": "navbar-slide-up",
+    "name": "ouispoon-navbar-slide-up",
     "type": "section",
     "repository": {
         "type": "git",
         "url": "https://github.com/WeWeb-Public/navbar-slide-up"
     },
-    "version": "0.0.5",
+    "version": "0.0.1",
     "private": true,
     "scripts": {
         "build": "weweb-build",
