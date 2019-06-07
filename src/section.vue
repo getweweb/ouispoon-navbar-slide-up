@@ -93,6 +93,17 @@ export default {
             return document.body.scrollTop
         }
     },
+    watch: {
+        show() {
+            if (this.show && this.$el) {
+                let height = this.$el.querySelector('.navbar-top').getBoundingClientRect().height;
+                wwLib.wwNavbar.updateHeight(height);
+            }
+            else {
+                wwLib.wwNavbar.updateHeight(0);
+            }
+        }
+    },
     methods: {
         init() {
             window.addEventListener('scroll', this.onScroll);
