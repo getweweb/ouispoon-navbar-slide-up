@@ -8,12 +8,12 @@
         <div class="placeholder" v-if="section.data.appearPercent == null">
             <!-- wwManager:start -->
             <div class="placeholder-infos">
-                Placeholder for navbar_A
-                <br>Place navbar_A on top of the section list to hide this
+                Placeholder for the navigation bar
+                <br>Place the navigation bar on top of the section list to hide this
             </div>
             <!-- wwManager:end -->
         </div>
-        <div class="navbar-top" :class="{'show': show, 'no-anim': section.data.appearPercent == null, 'fixed-nav': section.data.appearPercent != -3}">
+        <div class="navbar-top" :class="{'show': show, 'no-anim': section.data.appearPercent == null, 'fixed-nav': section.data.appearPercent != -3, 'shadow': displayShadow}">
             <div class="container">
                 <!-- wwManager:start -->
                 <wwSectionEditMenu size="small" :sectionCtrl="sectionCtrl" :options="openOptions"></wwSectionEditMenu>
@@ -78,7 +78,8 @@ export default {
             windowHeight: 0,
             show: false,
             navbarOpen: false,
-            lastScrollTop: 0
+            lastScrollTop: 0,
+            displayShadow: false
         }
     },
     computed: {
@@ -87,6 +88,9 @@ export default {
         // Use it has you like !
         section() {
             return this.sectionCtrl.get();
+        },
+        scroll() {
+            return document.body.scrollTop
         }
     },
     methods: {
@@ -131,6 +135,13 @@ export default {
           SHOW / HIDE NAVBAR TOP
         \================================================================================================*/
         onScroll() {
+            const scrollTop = Math.max(document.documentElement.scrollTop, document.body.scrollTop);
+            if ((window.location.pathname == '/ww_front/' || window.location.pathname == '/') && scrollTop == 0) {
+                this.displayShadow = false;
+            } else {
+                this.displayShadow = true;
+            }
+
             if (this.section.data.appearPercent == -2) {
                 this.setScrollUp();
             } else if (this.section.data.appearPercent == -3) {
@@ -329,6 +340,9 @@ export default {
         }
         &.show {
             transform: translateY(0);
+        }
+        &.shadow {
+            box-shadow: 0 2px 10px 0 rgba(74, 74, 74, 0.2);
         }
 
         .container {
