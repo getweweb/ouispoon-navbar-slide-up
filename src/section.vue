@@ -9,7 +9,7 @@
             <!-- wwManager:start -->
             <div class="placeholder-infos">
                 Placeholder for the navigation bar
-                <br>Place the navigation bar on top of the section list to hide this
+                <br />Place the navigation bar on top of the section list to hide this
             </div>
             <!-- wwManager:end -->
         </div>
@@ -122,23 +122,23 @@ export default {
         toggleNavbar() {
             this.navbarOpen = !this.navbarOpen;
             if (this.navbarOpen) {
-                for (let section of document.querySelectorAll('.ww-section:not([ww-fixed])')) {
-                    section.classList.add('navbar_A-open');
-                }
+                // for (let section of document.querySelectorAll('.ww-section:not([ww-fixed])')) {
+                //     section.classList.add('navbar_A-open');
+                // }
                 for (let container of this.$el.querySelectorAll('.container-up')) {
                     container.classList.add('navbar_A-open');
 
                 }
-                this.$el.querySelector('.container').classList.add('navbar_A-open');
+                // this.$el.querySelector('.container').classList.add('navbar_A-open');
             }
             else {
-                for (let section of document.querySelectorAll('.ww-section:not([ww-fixed])')) {
-                    section.classList.remove('navbar_A-open');
-                }
+                // for (let section of document.querySelectorAll('.ww-section:not([ww-fixed])')) {
+                //     section.classList.remove('navbar_A-open');
+                // }
                 for (let container of this.$el.querySelectorAll('.container-up')) {
                     container.classList.remove('navbar_A-open');
                 }
-                this.$el.querySelector('.container').classList.remove('navbar_A-open');
+                // this.$el.querySelector('.container').classList.remove('navbar_A-open');
             }
         },
 
