@@ -1,26 +1,26 @@
 {
-  "name": "navbar-slide-up",
-  "type": "section",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/WeWeb-Public/navbar-slide-up"
-  },
-  "version": "0.0.16",
-  "private": true,
-  "scripts": {
-    "build": "weweb-build",
-    "serve": "weweb-serve",
-    "upload": "weweb-upload"
-  },
-  "dependencies": {
-    "vue": "^2.5.16"
-  },
-  "devDependencies": {
-    "weweb-client": "^1.0.40"
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not ie <= 8"
-  ]
+	"name": "navbar-slide-up",
+	"type": "section",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/WeWeb-Public/navbar-slide-up"
+	},
+	"version": "0.0.17",
+	"private": true,
+	"scripts": {
+		"build": "weweb-build",
+		"serve": "weweb-serve",
+		"create-config": "weweb-config"
+	},
+	"dependencies": {
+		"vue": "^2.6.11"
+	},
+	"devDependencies": {
+		"weweb-client": "^1.1.3"
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"not ie <= 8"
+	]
 }
